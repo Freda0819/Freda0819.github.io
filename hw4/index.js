@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'In a certain proportion of cases, however, a dream results.'     
+      'In another case a dreamer awoke from a disturbed sleep associated with indigestion, having the impression that burglars were tramping upstairs, but immediately realised that the tramp of the burglars' feet was really the beating of her own heart.'     
 };
 
 function status(statusText) {
