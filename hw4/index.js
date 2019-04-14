@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'To be content with what we at present know, is, for the most part, to shut our ears against conviction.',
+      'Scepticism was as much the result of knowledge.',
   'example4':
       'In another case a dreamer awoke from a disturbed sleep associated with indigestion, having the impression that burglars were tramping upstairs, but immediately realised that the tramp of the burglars feet was really the beating of her own heart.'     
 };
